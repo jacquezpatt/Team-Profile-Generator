@@ -1,0 +1,10 @@
+div {
+        flex: 1 0 200px;
+        padding: 10px;
+        text-align: center;
+        border-style: solid;
+        border-width: 1px;
+        background-color: rgb(0, 0, 148);
+        color: white;
+        margin: 5px;
+}
